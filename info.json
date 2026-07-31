@@ -1,0 +1,240 @@
+{
+  "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+  "extensionVersion": "3.0.2",
+  "contentScriptAlive": true,
+  "frames": [
+    {
+      "file": "page.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": true,
+        "scraper": {
+          "lastError": null,
+          "lastScrapeAt": "2026-07-31T21:38:04.736Z",
+          "messageType": "CARS_COM_PANELS",
+          "panels": [
+            {
+              "hiddenVins": [],
+              "name": "CarsCom",
+              "popupVins": [],
+              "rule": "Page Content Unique VIN",
+              "vehicleDetails": {
+                "announcements": "",
+                "defaultThumbUrl": "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/O5Y9yI077cC2fqvW-SstX-RCrDk.jpg",
+                "doors": "",
+                "drivetrain": "",
+                "engine": "",
+                "exteriorColor": "",
+                "imageUrls": [
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/O5Y9yI077cC2fqvW-SstX-RCrDk.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/PHGE11m32Bc5pheUe52_ST4gH-E.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/ER3Vf_oxZ_b6FbvaB9geig3DzHo.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/C0PVnDdQkv3MJ7DL-GFVKF1RUk8.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/lVx9c077VB9QtcuLDncbgwETM90.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/u0Ri4u5gvcaPIOVKPfp7dcXiXhI.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/XgLYGt_Jf_IVOSTcVWhn9n2hle4.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/Lx2i5-VwfGihiewx6dS2Q080ISQ.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/IiqjX4DeR6rhIqycGgFZe_FQa48.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/N_Ri2jCi_u9L9EAaVMJ04pjBQy4.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/0xTNvD-AJwmSoXF9nSbFsJ-LK6w.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/Ky5uQqYWkCJMpH-CIqUAZsd_qLs.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/pHZXI2iWtLWZl4VkkUAI04QCgmk.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/LyH-NeJteBjzRgh-fhkBuCW4mbM.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/LOgmoyfFAiepgnF3dePtdiKpH1g.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/Vw027sgOvFbeIMPXQfdIkRojrq0.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/k6WC5-8omT3s68kgQg5JzBrEE9w.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/un2U1teTDieLVXlkl5URT1TPzG4.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/hQzqKq3oLCAtd5OYldzyxsfDGfE.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/KFYQ0YAxDA8sUczhoVWebdugWIA.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/oBXNQRLNBrIo-E3QGWekchde8QU.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/O74GnmS3hXyhOH1K6AVvq6pEnpk.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/veDdOPdJQRGFe8eTBg1HjARvRIY.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/8T1PROt4ScTwp3qoeHo7hsdIrIU.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/CMkPf4uZVyqXnesd0XcYDK5xsEU.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/yquJWP3Xib-otCeX8wdKT90D3eU.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/KxsBNMbkcu4a2LowE1xeSSOkgvc.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/9Qcs9qmyxscRqhpIL3gbgruXtRo.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/ySwbOs3cuJL6iQOv3A1vyzwXkCk.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/ZR5QjFHsTteFLNrwEEqF64ggjwY.jpg",
+                  "https://platform.cstatic-images.com/xxlarge/in/v2/651e9d55-ac2d-552d-ad12-ec2a1ee27615/544736ac-5c38-4c83-84e9-c883ba941ff0/0GxfwLTQ1Py0xbEM3cm56vu1oZk.jpg"
+                ],
+                "interiorColor": "",
+                "locationCityState": "",
+                "locationPostalCode": "",
+                "make": "",
+                "mileage": 55447,
+                "model": "",
+                "options": [],
+                "price": "",
+                "scrapedFromAuction": "CarsCom",
+                "transmission": "",
+                "trimDescription": "",
+                "vehicleClass": "Used",
+                "vehicleConfiguration": [],
+                "vehicleDescription": "",
+                "vehicleSaleUrl": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+                "vin": "1FTEW1C83PKE76494",
+                "year": ""
+              },
+              "vins": [
+                "1FTEW1C83PKE76494"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "file": "frame-70.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-83.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-84.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-85.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-86.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-91.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-97.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-98.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-99.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-100.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-102.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-104.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-105.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-110.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-113.html",
+      "url": "about:blank",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-79.html",
+      "url": "https://www-staging.autovisionapp.com/app/8e60a14b-eea7-46ff-8caf-2a7f569154ce/auction_eval?tool_type=ReturnIfBooked&app_class=widget-app&vin_source=CARS_COM&vin_host=www.cars.com&vin_url_encoded=aHR0cHM6Ly93d3cuY2Fycy5jb20vdmVoaWNsZWRldGFpbC83ODZhYmMwOC01ODI0LTQxYmYtYTU4ZC1hOTMwMjE1OWQ3NDkv&vin_number=1FTEW1C83PKE76494&auction_listing_hash=S%3A%5BCarsCom%5DV%3A%5B1FTEW1C83PKE76494%5D&decode_failed=&fkey=&in_live_sale=false&extension_id=nnhgjglngggapfmelfpielppfbhnaide",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-93.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-94.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    },
+    {
+      "file": "frame-96.html",
+      "url": "https://www.cars.com/vehicledetail/786abc08-5824-41bf-a58d-a9302159d749/",
+      "wingman": {
+        "helperLoaded": false,
+        "scraper": null
+      }
+    }
+  ]
+}
